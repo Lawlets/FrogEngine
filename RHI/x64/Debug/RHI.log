@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  GLTexture.cpp
+  GLShader.cpp
+  D3DShader.cpp
+  RHI.cpp
+  GLRenderer.cpp
+  RHIError.cpp
+  VerticesData.cpp
+  GLBufferObject.cpp
+  GLBuffer.cpp
+  Generating Code...
+     Creating library D:\Project\FrogEngine\x64\Debug\RHI.lib and object D:\Project\FrogEngine\x64\Debug\RHI.exp
+  RHI.vcxproj -> D:\Project\FrogEngine\x64\Debug\RHI.dll

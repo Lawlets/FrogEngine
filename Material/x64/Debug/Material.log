@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Material.cpp
+  FELoaderMaterial.cpp
+  feMaterialFbx.cpp
+  feMaterial.cpp
+  Generating Code...
+     Creating library D:\Project\FrogEngine\x64\Debug\Material.lib and object D:\Project\FrogEngine\x64\Debug\Material.exp
+  Material.vcxproj -> D:\Project\FrogEngine\x64\Debug\Material.dll

@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  Time.cpp
+  stdafx.cpp
+  SFMLTime.cpp
+  Generating Code...
+     Creating library D:\Project\FrogEngine\x64\Debug\Time.lib and object D:\Project\FrogEngine\x64\Debug\Time.exp
+  Time.vcxproj -> D:\Project\FrogEngine\x64\Debug\Time.dll

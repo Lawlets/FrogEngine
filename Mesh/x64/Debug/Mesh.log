@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Mesh.cpp
+  FELoaderMesh.cpp
+  feMeshSkybox.cpp
+  feMeshObj.cpp
+  feMeshFbx.cpp
+  feMesh.cpp
+  SDKLoaderMesh.cpp
+  Generating Code...
+     Creating library D:\Project\FrogEngine\x64\Debug\Mesh.lib and object D:\Project\FrogEngine\x64\Debug\Mesh.exp
+  Mesh.vcxproj -> D:\Project\FrogEngine\x64\Debug\Mesh.dll

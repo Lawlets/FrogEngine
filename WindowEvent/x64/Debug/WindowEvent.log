@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SFMLWindow.cpp
+  SFMLEvent.cpp
+  SDLWindow.cpp
+  SDLEvent.cpp
+  Generating Code...
+     Creating library D:\Project\FrogEngine\x64\Debug\WindowEvent.lib and object D:\Project\FrogEngine\x64\Debug\WindowEvent.exp
+  WindowEvent.vcxproj -> D:\Project\FrogEngine\x64\Debug\WindowEvent.dll
